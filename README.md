@@ -21,13 +21,9 @@ source venv/bin/activate
 
 In this test, we will ask you to perform a regular job performed by the Data Team at Lumapps.
 
-You will find two sets of mock data in this test. Their content reflects the usage of your platform by users:
+You will find a set of mock data in this test, called `test_data.csv`. Its content reflects the usage of your platform by users.
 
-- `test_data.csv` contains a sample of data, to make you familiar with the data;
-
-- `test_data_final.csv` contains a full set of real data.
-
-Each of your customer is asking you to provide them the amount of participating users on the platform using the real set of data, i.e. `test_data_final.csv`.
+Each of your customer is asking you to provide them the amount of participating users on the platform using the provided data.
 
 ## Task
 
@@ -49,7 +45,7 @@ You are expected to:
 
 You will provide:
 
-- a script to integrate the relevant data into a PostgreSQL database. It must run on both sets of data;
+- a script to integrate the relevant data into a PostgreSQL database;
 
 - the schema of the SQL table(s) you plan to use. No nullable value is allowed in this test;
 
