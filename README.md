@@ -29,7 +29,7 @@ Each of your customer is asking you to provide them the amount of participating 
 
 The expected task should not take you longer than 1 hour to complete.
 
-Using **SQL**, you are asked to provide the percentage of participating users by customer by day between the 1/15/2020 and the 1/22/2020. A participating user is a user who either write, like or comment a content.
+Using **SQL**, you are asked to provide the percentage of participating users by customer between the 1/05/2020 and the 1/22/2020. A participating user is a user who either write, like or comment a content.
 
 You are expected to:
 
